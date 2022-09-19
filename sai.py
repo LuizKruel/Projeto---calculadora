@@ -6,8 +6,7 @@ Data: 19/09/2022
 Versão: 0.0.5
 """
 
-
-#Saida de dados / resultado
+# saída de dados / resultado
 
 def saida(valor):
     print(f"\nA operação resulta em {valor}.")
