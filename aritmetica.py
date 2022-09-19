@@ -6,7 +6,7 @@ Data: 19/09/2022
 Versão: 0.0.5
 """
 
-#Processamento de Dados
+# processamento de dados
 
 def adicao(x: float, y: float) -> float:
     #soma dois números.
