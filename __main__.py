@@ -15,6 +15,14 @@ import entra
 import aritmetica
 import sai
 
+# Função de boas-vindas
+
+def welcome():
+    print("""Bem-vindo(a) à Calculadora!""")
+
+welcome()
+
+
 # definição das operações
 
 def main():
