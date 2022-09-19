@@ -1,6 +1,6 @@
 """
 Projeto-calculadora
-Descrição: módulo de um programa python que permite a entrada de dois numeros.
+Descrição: módulo que permite a entrada de dois numeros.
 Autor: Luiz Kruel
 Data: 19/09/2022
 Versão: 0.0.5
