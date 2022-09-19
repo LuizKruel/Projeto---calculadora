@@ -1,19 +1,22 @@
 """
-    Projeto Calc
+Projeto-calculadora
 Descrição: Faça um programa Python modularizado que seja uma calculadora com as 4 
 operações aritméticas com dois números e que tenha um módulo principal
 e um módulo - chamado aritmetico.py - além de módulos que forneçam
 funções de entrada e saída de dados.
-Autor: Eduardo S Venturini
-Data: 29/08/2022
-Versão: 0.0.8
+Autor: Luiz Kruel
+Data: 19/09/2022
+Versão: 0.0.5
 """
+
+# importação dos módulos
 
 import entra
 import aritmetica
 import sai
 
-#main (escrever o módulo principal)
+# definição das operações
+
 def main():
     lista_numeros = entra.entrada()
     operacao = input("""\nInforme a operação desejada e clique enter:
@@ -34,6 +37,7 @@ def main():
     sai.saida(valor)
 
 
-#Execução do programa
+# execução do programa
+
 if __name__ == "__main__":
     main()
