@@ -1,6 +1,6 @@
 """
 Projeto-calculadora
-Descrição: módulo de um programa python que realiza as 4 operações matemáticas.
+Descrição: módulo que realiza as 4 operações matemáticas.
 Autor: Luiz Kruel
 Data: 19/09/2022
 Versão: 0.0.5
